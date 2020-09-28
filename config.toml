@@ -67,7 +67,7 @@ enableEmoji = true
         weight = 10
 
     [[menu.main]]
-        name = "Resume"
+        name = "Resume (PDF)"
         url = "/resume.pdf"
         weight = 10
     
