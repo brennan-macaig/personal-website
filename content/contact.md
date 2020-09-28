@@ -1,7 +1,7 @@
 ---
 title: "Looking to reach me?"
 date: 2020-09-28T12:09:10-04:00
-draft: true
+draft: false
 ---
 
 You can always email me at my personal email: <me@brennanmacaig.com> (I check this daily).
