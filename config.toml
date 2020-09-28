@@ -26,7 +26,7 @@ enableEmoji = true
     homeSubtitle = "Site Reliability Engineer - Full Stack Developer - Student - Mentor"
     # bgImg = "" # gradient for background coming soon.
 
-    footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a> &#183 <a href="https://github.com/brennan-macaig/personal-website" target="_blank" rel="noopener">Hack this on GitHub</a>'
 
     relatedPosts = true
 
