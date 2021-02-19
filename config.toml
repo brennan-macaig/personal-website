@@ -26,16 +26,9 @@ enableEmoji = true
   hideCredits = false
   hideCopyright = false
   since = 2020
-
-  enableTwemoji = true
-
   colorScheme = "dark"
   hidecolorschemetoggle = false
-
-  #customCSS = ["css/custom.css"]
-  #customSCSS = ["scss/custom.scss"]
-  #customJS = ["js/custom.js"]
-
+  
 [taxonomies]
   category = "categories"
   series = "series"
@@ -63,7 +56,7 @@ enableEmoji = true
   icon = "fa fa-instagram fa-2x"
   weight = 3
   url = "https://instagram.com/brennanmacaig"
-[[params.linkedin]]
+[[params.social]]
   name = "LinkedIn"
   icon = "fa fa-linkedin fa-2x"
   weight = 3
