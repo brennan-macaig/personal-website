@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.brennanmacaig.com/posts/advent-intro/</loc>
+    <lastmod>2020-11-28T12:29:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brennanmacaig.com/</loc>
+    <lastmod>2020-11-28T12:29:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brennanmacaig.com/posts/</loc>
+    <lastmod>2020-11-28T12:29:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brennanmacaig.com/about/</loc>
+    <lastmod>2020-09-28T12:09:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brennanmacaig.com/contact/</loc>
+    <lastmod>2020-09-28T12:09:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brennanmacaig.com/posts/welcome/</loc>
+    <lastmod>2020-09-28T12:07:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brennanmacaig.com/tags/</loc>
+    <lastmod>2020-09-28T12:07:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brennanmacaig.com/tags/welcome/</loc>
+    <lastmod>2020-09-28T12:07:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brennanmacaig.com/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.brennanmacaig.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.brennanmacaig.com/series/</loc>
+  </url>
+  
+</urlset>

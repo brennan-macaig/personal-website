@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>welcome on Brennan Macaig</title>
+    <link>https://www.brennanmacaig.com/tags/welcome/</link>
+    <description>Recent content in welcome on Brennan Macaig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Sep 2020 12:07:32 -0400</lastBuildDate><atom:link href="https://www.brennanmacaig.com/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Howdy!</title>
+      <link>https://www.brennanmacaig.com/posts/welcome/</link>
+      <pubDate>Mon, 28 Sep 2020 12:07:32 -0400</pubDate>
+      
+      <guid>https://www.brennanmacaig.com/posts/welcome/</guid>
+      <description>My name is Brennan, and welcome to my new blog.
+I&amp;rsquo;m trying to be more active in writing a blog - this will be mostly useless musings, with maybe the occasional interesting story.
+A lot of what I&amp;rsquo;ll be writing will be something along the lines of &amp;ldquo;today I learned&amp;rdquo; - as I am very much still a student (oh hey, thanks Blake for this fantastic idea).
+Recently, a friend of mine Nate started a new blog, which really inspired me to get on the blog writing train.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brennan Macaig</title>
+    <link>https://www.brennanmacaig.com/</link>
+    <description>Recent content on Brennan Macaig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Nov 2020 12:29:25 -0500</lastBuildDate><atom:link href="https://www.brennanmacaig.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advent of Code - What, why, when, how?</title>
+      <link>https://www.brennanmacaig.com/posts/advent-intro/</link>
+      <pubDate>Sat, 28 Nov 2020 12:29:25 -0500</pubDate>
+      
+      <guid>https://www.brennanmacaig.com/posts/advent-intro/</guid>
+      <description>As the holiday season begins with the end of black friday (and the winding down of my semester) - a new but familiar challenge approaches. I am of course talking about Advent of Code - the crazy series of events put together by Eric Wastl.
+Every year, I do (at least part of) the Advent of Code (or AoC) challenges. And every year, I progress further in the set of challenges than I did the year before.</description>
+    </item>
+    
+    <item>
+      <title>Hi, I&#39;m Brennan.</title>
+      <link>https://www.brennanmacaig.com/about/</link>
+      <pubDate>Mon, 28 Sep 2020 12:09:16 -0400</pubDate>
+      
+      <guid>https://www.brennanmacaig.com/about/</guid>
+      <description>I&amp;rsquo;m a Site Reliability Engineering Intern at Mutualink, a full time CS student at UMass Lowell, and a FIRST robotics mentor. I&amp;rsquo;m currently based out of Lowell MA (greater Boston area).
+As a site reliability engineer, I focus on building secure, scalable, maintainable infrastructure. Previously, I worked as a full stack web developer, writing performance-oriented business-to-business SaaS apps.
+In my free time, I maintain a blog, as well as develop personal IoT projects around the house.</description>
+    </item>
+    
+    <item>
+      <title>Looking to reach me?</title>
+      <link>https://www.brennanmacaig.com/contact/</link>
+      <pubDate>Mon, 28 Sep 2020 12:09:10 -0400</pubDate>
+      
+      <guid>https://www.brennanmacaig.com/contact/</guid>
+      <description>You can always email me at my personal email: me@brennanmacaig.com (I check this daily).
+You could also @ me on my Twitter, or message me on my GitHub.
+Further, you could try reaching me on LinkedIn.
+ There&amp;rsquo;s a problem with your website    I&amp;rsquo;m sorry about that! Feel free to reach out to me via either my personal email or help@brennanmacaig.com. I&amp;rsquo;ll fix it right away!
+I think you copied my content without permission    I certainly hope not!</description>
+    </item>
+    
+    <item>
+      <title>Howdy!</title>
+      <link>https://www.brennanmacaig.com/posts/welcome/</link>
+      <pubDate>Mon, 28 Sep 2020 12:07:32 -0400</pubDate>
+      
+      <guid>https://www.brennanmacaig.com/posts/welcome/</guid>
+      <description>My name is Brennan, and welcome to my new blog.
+I&amp;rsquo;m trying to be more active in writing a blog - this will be mostly useless musings, with maybe the occasional interesting story.
+A lot of what I&amp;rsquo;ll be writing will be something along the lines of &amp;ldquo;today I learned&amp;rdquo; - as I am very much still a student (oh hey, thanks Blake for this fantastic idea).
+Recently, a friend of mine Nate started a new blog, which really inspired me to get on the blog writing train.</description>
+    </item>
+    
+  </channel>
+</rss>
