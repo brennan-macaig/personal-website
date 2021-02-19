@@ -12,10 +12,6 @@ Further, you could try reaching me on [LinkedIn](https://www.linkedin.com/in/bre
 
 ---
 
-### There's a problem with your website
-
-I'm sorry about that! Feel free to reach out to me via either my personal email or <help@brennanmacaig.com>. I'll fix it right away!
-
 ### I think you copied my content without permission
 
 I certainly hope not! If this is the case, please reach out to me immediately, and I'll happily resolve the issue.

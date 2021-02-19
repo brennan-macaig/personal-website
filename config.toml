@@ -1,74 +1,91 @@
 baseURL = "https://www.brennanmacaig.com"
 languageCode = "en-us"
 title = "Brennan Macaig"
-theme = "hermit"
+theme = "hugo-coder"
 
-pygmentsCodefences = true
-pygmentsUseClasses = true
-rssLimit = 20 # Limit RSS to last 20 items.
-copyright = "Copyright (C) Brenann Macaig 2020. All rights reserved." # RSS only
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
 enableEmoji = true
-# googleAnalytics = "SOME-CODE-HERE"
-
-[author]
-    name = "Brennan Macaig"
-
-[taxonomies]
-    tag = "tags"
 
 [params]
-    dateform = "Jan 2, 2006"
-    dateformShort = "Jan 2"
-    dateformNum = "01-02-2006"
-    dateformNumTime = "01-02-2006 15:04 EST"
+  author = "Brennan Macaig"
+  info = "Site Reliability Engineer - Full Stack Developer - Student - Mentor"
+  description = "Site Reliability Engineer - Full Stack Developer - Student - Mentor"
+  keywords = "blog,developer,personal"
+  avatarurl = "static/me.png"
 
-    themeColor = "#494f5c"
-    homeSubtitle = "Site Reliability Engineer - Full Stack Developer - Student - Mentor"
-    # bgImg = "" # gradient for background coming soon.
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
 
-    footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a> &#183 <a href="https://github.com/brennan-macaig/personal-website" target="_blank" rel="noopener">Hack this on GitHub</a>'
+  footercontent = ""
+  hideFooter = false
+  hideCredits = false
+  hideCopyright = false
+  since = 2020
 
-    relatedPosts = true
+  enableTwemoji = true
 
-    code_copy_button = true
+  colorScheme = "dark"
+  hidecolorschemetoggle = false
 
-    # Social Icons
-    [[params.social]]
-        name = "github"
-        url = "https://github.com/brennan-macaig"
+  #customCSS = ["css/custom.css"]
+  #customSCSS = ["scss/custom.scss"]
+  #customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/brennan-macaig"
+[[params.social]]
+  name = "Gitlab"
+  icon = "fa fa-gitlab fa-2x"
+  weight = 2
+  url = "https://gitlab.com/brennan-macaig/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/brennan_macaig"
+[[params.social]]
+  name = "Instagram"
+  icon = "fa fa-instagram fa-2x"
+  weight = 3
+  url = "https://instagram.com/brennanmacaig"
+[[params.linkedin]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/brennan-macaig/"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  url = "posts/"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "about/"
+  weight = 1
     
-    [[params.social]]
-        name = "instagram"
-        url = "https://instagram.com/brennanmacaig"
-    
-    [[params.social]]
-        name = "twitter"
-        url = "https://twitter.com/brennan_macaig"
+[[menu.main]]
+  name = "Contact Me"
+  url = "contact/"
+  weight = 1
 
-    [[params.social]]
-        name = "linkedin"
-        url = "https://www.linkedin.com/in/brennan-macaig/"
-
-[menu]
-
-    [[menu.main]]
-        name = "Blog"
-        url = "posts/"
-        weight = 10
-
-    [[menu.main]]
-        name = "About"
-        url = "about/"
-        weight = 10
-    
-    [[menu.main]]
-        name = "Contact Me"
-        url = "contact/"
-        weight = 10
-
-    [[menu.main]]
-        name = "Resume (PDF)"
-        url = "/resume.pdf"
-        weight = 10
-    
-        
+[[menu.main]]
+  name = "Resume (PDF)"
+  url = "/resume.pdf"
+  weight = 1
